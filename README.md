@@ -1,4 +1,4 @@
-# Reddit Reader SCript
+# Reddit Reader Script
 This script retrieves the top posts from a specified subreddit using the Reddit JSON API. It allows you to specify the subreddit, time filter, and sort method (hot, top, new, rising) as command-line arguments.
 
 ## Prerequisites
